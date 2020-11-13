@@ -1,0 +1,13 @@
+# Book settings
+title: My sample book
+author: The Jupyter Book Community
+logo: logo.png
+
+latex:
+  latex_documents:
+    targetname: book.tex
+
+repository:
+  url                       : https://github.com/AnouarGanfoud/Gentsch.git  # Online location of your book
+  path_to_book              : path/to/book  # Optional path to your book, relative to the repository root
+  branch                    : master  # Which branch of the repository should be used when creating links (optional)	
