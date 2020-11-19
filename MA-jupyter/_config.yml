@@ -8,6 +8,10 @@ latex:
     targetname: book.tex
 
 repository:
-  url                       : https://github.com/AnouarGanfoud/Gentsch.git  # Online location of your book
-  path_to_book              : path/to/book  # Optional path to your book, relative to the repository root
+  url                       : https://github.com/AnouarGanfoud/Gentsch  # Online location of your book
+  path_to_book              : public
   branch                    : master  # Which branch of the repository should be used when creating links (optional)	
+
+launch_buttons:
+  thebe                  : true
+  binderhub_url: "https://mybinder.org"
