@@ -9,7 +9,7 @@ latex:
 
 repository:
   url                       : https://github.com/AnouarGanfoud/Gentsch  # Online location of your book
-  path_to_book              : public
+  path_to_book              : MA-jupyter
   branch                    : master  # Which branch of the repository should be used when creating links (optional)	
 
 launch_buttons:
